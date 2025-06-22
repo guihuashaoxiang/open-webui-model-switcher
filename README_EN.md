@@ -26,7 +26,7 @@ A Tampermonkey script designed for [Open-WebUI](https://github.com/open-webui/op
 
 1.  **Install Script Manager**: First you need a userscript manager. Recommended [**Tampermonkey**](https://www.tampermonkey.net/). Please install according to your browser.
 2.  **Install This Script**: Click the link below to install directly.
-    *   **[➡️ Install from Github (Recommended)](https://github.com/guihuashaoxiang/open-webui-model-switcher/blob/main/open-webui-model-switcher.user.js)**
+    *   **[➡️ Install from Github (Recommended)](https://raw.githubusercontent.com/guihuashaoxiang/open-webui-model-switcher/main/open-webui-model-switcher.user.js)**
 
 ## 🛠️ Usage Instructions
 
