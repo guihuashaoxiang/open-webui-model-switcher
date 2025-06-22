@@ -42,7 +42,7 @@
 
 ### ⚠️ 重要：如何匹配你自己的 Open-WebUI 地址
 
-本脚本默认只在 `https://ipv6.home.open-webui.guaqian.cfd/*` 地址生效。如果你的 Open-WebUI 是通过 `localhost`、`127.0.0.1` 或者其他IP地址/域名访问的，你需要手动修改脚本的匹配规则才能让它工作。
+本脚本默认只在 `http://localhost:3000/*` 地址生效。如果你的 Open-WebUI 是通过 `localhost`、`127.0.0.1` 或者其他IP地址/域名访问的，你需要手动修改脚本的匹配规则才能让它工作。
 
 请按照以下步骤操作：
 
@@ -50,7 +50,7 @@
 2.  在脚本列表中找到 **"Open-WebUI 模型切换助手"**，点击它的**编辑按钮**（通常是一个铅笔和纸的图标）。
 3.  在打开的代码编辑器中，找到最顶部的 `@match` 这一行：
     ```
-    // @match        https://ipv6.home.open-webui.guaqian.cfd/*
+    // @match        http://localhost:3000/*
     ```
 4.  **将这个地址修改为你自己的 Open-WebUI 地址**。请确保保留末尾的 `/*`，它表示匹配该域名下的所有页面。
 
