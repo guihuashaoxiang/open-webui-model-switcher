@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/version-1.7-blue.svg)](#)
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install-brightgreen.svg)](https://greasyfork.org/zh-CN/scripts/YOUR-SCRIPT-ID-HERE) <!-- 请在发布到 Greasy Fork 后替换 YOUR-SCRIPT-ID-HERE -->
 
-[English Version](./README_EN.md) <!-- 可选 -->
+[English Version](https://github.com/guihuashaoxiang/open-webui-model-switcher/blob/main/README_EN.md) <!-- 可选 -->
 
 一个为 [Open-WebUI](https://github.com/open-webui/open-webui) 设计的油猴脚本，旨在通过一个悬浮窗口，帮助用户快速记录、管理和切换多模型聊天组合。
 
