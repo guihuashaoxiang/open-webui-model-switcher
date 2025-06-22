@@ -26,7 +26,7 @@
 
 1.  **安装脚本管理器**: 你首先需要一个用户脚本管理器。推荐使用 [**Tampermonkey**](https://www.tampermonkey.net/) (油猴)。请根据你的浏览器选择并安装。
 2.  **安装本脚本**: 点击下面的链接直接安装。
-    *   **[➡️ 从 Github 安装 (推荐)](https://github.com/guihuashaoxiang/open-webui-model-switcher/raw/main/open-webui-model-switcher.user.js)**
+    *   **[➡️ 从 Github 安装 (推荐)](https://github.com/guihuashaoxiang/open-webui-model-switcher/blob/main/open-webui-model-switcher.user.js)**
 
 ## 🛠️ 使用说明
 
